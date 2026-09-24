@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.24)  24 SEP 2026 12:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.24)  24 SEP 2026 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,30 +683,127 @@ Overfull \hbox (10.38216pt too wide) in paragraph at lines 101--102
 воего привычного
  []
 
-[3] (./main.aux)
+[3]
+Overfull \hbox (25.2028pt too wide) in paragraph at lines 115--116
+[]\T2A/cmr/m/n/14.4  огда в студенческой столовой ленинградского университета п
+о€вились три варианта
+ []
+
+
+Overfull \hbox (20.07582pt too wide) in paragraph at lines 119--120
+[]\T2A/cmr/m/n/14.4  омментарий: комплексное число в математике состоит из мним
+ой и действительной
+ []
+
+
+Overfull \hbox (3.52626pt too wide) in paragraph at lines 121--122
+[]\T2A/cmr/m/n/14.4 —танислав ≈жи Ћец спрашивает: Њ„то ты скажешь на это, физик
+а? ¬ отношени€х
+ []
+
+
+Overfull \hbox (3.5141pt too wide) in paragraph at lines 133--134
+[]\T2A/cmr/m/n/14.4 ќдин сингапурский математик назвал своего сына именем, попу
+л€рным в јнглии.
+ []
+
+
+Overfull \hbox (27.70499pt too wide) in paragraph at lines 137--138
+[]\T2A/cmr/m/n/14.4 √олландский физик √ендрик Ћоренц нашел соотношение между пл
+отностью вещества
+ []
+
+
+Overfull \hbox (17.98553pt too wide) in paragraph at lines 137--138
+\T2A/cmr/m/n/14.4 и его преломл€ющей способностью. Ќесколько ранее эту же форму
+лу, но совершенно
+ []
+
+
+Overfull \hbox (13.99184pt too wide) in paragraph at lines 137--138
+\T2A/cmr/m/n/14.4 другим путем получил датский физик. «а формулой утвердилось д
+войное название.
+ []
+
+[4]
+Overfull \hbox (4.67755pt too wide) in paragraph at lines 147--148
+[]\T2A/cmr/m/n/14.4  омментарий: ¬озможны такие варианты сумм при произведении 
+36: 1+2+18=21;
+ []
+
+
+Overfull \hbox (54.3417pt too wide) in paragraph at lines 149--150
+[]\T2A/cmr/m/n/14.4 ¬ы видите знак, которым обозначаетс€ единица измерени€ элек
+трического сопротивлени€
+ []
+
+
+Overfull \hbox (31.50739pt too wide) in paragraph at lines 157--158
+\T2A/cmr/m/n/14.4 форуме эссе на одну очень интересную конспирологическую теори
+ю. јвтор утверждал
+ []
+
+
+Overfull \hbox (19.29121pt too wide) in paragraph at lines 157--158
+\T2A/cmr/m/n/14.4 что начина€ приблизительно с 2016^^V2017 годов основна€ часть
+ контента в интернете
+ []
+
+
+Overfull \hbox (12.66324pt too wide) in paragraph at lines 157--158
+\T2A/cmr/m/n/14.4 имитации жизни: тексты, сгенерированные нейросет€ми, одинаков
+ые комментарии,
+ []
+
+
+Overfull \hbox (37.78384pt too wide) in paragraph at lines 157--158
+\T2A/cmr/m/n/14.4 фальшивые аккаунты и активность ботов. ¬се это создает иллюзи
+ю бурной активности,
+ []
+
+
+Overfull \hbox (2.18222pt too wide) in paragraph at lines 157--158
+\T2A/cmr/m/n/14.4 за которой все меньше насто€щих людей. –адикальна€ верси€ тео
+рии утверждает,
+ []
+
+
+Overfull \hbox (42.36348pt too wide) in paragraph at lines 157--158
+\T2A/cmr/m/n/14.4 что это €вл€етс€ частью координированных усилий по манипулиро
+ванию общественным
+ []
+
+
+Overfull \hbox (67.47842pt too wide) in paragraph at lines 157--158
+\T2A/cmr/m/n/14.4 чем научно обоснованным утверждением , счита€ что люди просто
+ бо€тс€ неконтролируемое
+ []
+
+[5] [6] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5152 strings out of 469006
- 79000 string characters out of 5454813
+ 5173 strings out of 469006
+ 79269 string characters out of 5454813
  491922 words of memory out of 5000000
- 33784 multiletter control sequences out of 15000+600000
- 637202 words of font info for 62 fonts, out of 8000000 for 9000
+ 33801 multiletter control sequences out of 15000+600000
+ 639095 words of font info for 70 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 57i,6n,65p,816b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440
-.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfbx2
-074.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sf
-bx2488.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super
-/sfrm1440.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-su
-per/sfrm1728.pfb>
-Output written on main.pdf (4 pages, 96585 bytes).
+ 57i,6n,65p,1760b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfbx1
+440.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sf
+bx2074.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super
+/sfbx2488.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1440.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm
+-super/sfrm1728.pfb>
+Output written on main.pdf (7 pages, 112039 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
